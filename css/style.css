@@ -1,0 +1,45 @@
+/*
+---- 01 Typography System
+- Font Size(px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Font Family
+Goole Font : Rubik
+default: sans-serif
+
+- Font Weight
+ default : 400
+ heading-primary: 700
+
+- Line Height
+ default : 1
+ heading-primary: 1.1
+
+---- 02 Color
+- Primary : #;
+- Tints : #
+- Shades : #
+- Accents
+- Grays : #;
+Background color - #070500
+secondary bg color - #130C00
+Primary color - #FFBD33
+Text color - #FBF8F5
+
+
+---- 03 Shadow
+
+
+---- 04 Border Radius
+default: 9px
+
+
+-Spacing System(px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+*/
+
+
+/* **************************** */
+/* Header Component */
+/* **************************** */

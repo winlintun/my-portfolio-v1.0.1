@@ -1,0 +1,23 @@
+:root {
+    --bg-primary: #070500;
+    --bg-secondary: #130C00;
+    --primary: #FFBD33;
+    --text: #FBF8F5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /* font-size -> 10*/
+    font-size: 62.5%; 
+}
+body {
+    font-family: sans-serif;
+    font-weight: 400;
+    color: var(--text);
+    line-height: 1;
+}

@@ -1,0 +1,112 @@
+          3 Rules
+==============================
+
+1. Unique Selling Proposition
+-> အရည်အချင်း ထူးထူး ခြားခြား ဖြစ်အောင် တင်ပြခြင်း  
+-> ဆက်ဖတ်ချင်အောင် ဆွဲဆောင် နိုင်ရမယ်
+
+
+2. Using Quality Mockups
+-> အကောင်းဆုံးဆိုတာကို ရွေးချယ်ပြပေးဖို့ လိုတယ် 
+-> ကိုယ့်ရဲ့ image ကိုလည်း မြင်နိုင်ရမယ် 
+-> visuallization နဲ့ ဆွဲဆောင်နိုင်ဖို့ လိုတယ်
+
+3. Using Social Proof
+-> 
+
+
+
+
+Website Personility
+
+font-type = Sanserif
+font-size = ခပ်ကြီးကြီး
+color - အရောင်တောက်တောက် (အဖြူ၊ အနီ၊ အမဲ)
+border-radius = မသုံးသလောက် နည်းမယ်
+icon - မဖြစ်မနေမှ သုံးမယ ်
+shadow - မသုံးသလောက် နည်းမယ်
+animation - မရိုးအောင် နည်းနည်းထည့် မယ် 
+
+
+1. Header section
+2. Hero section
+3. About Us
+4. What i do or my skill
+5. Project or portfolio
+Education
+6. tesimonial
+7. blog
+8. content us
+
+
+------------------------------
+Background color - #070500
+secondary bg color - #130C00
+Primary color - #FFBD33
+Text color - #FBF8F5
+
+Font - family - Inter
+              - Clicker Script
+
+Sub Title   - My Name Is Win Lin Tun
+Main Title  - I am Python Developer
+            - I am Web Backend Developer
+            
+Description -  I want to create the best Web Backend and good workflow and error-free. I am a good developer with a good sense of humor and creativity. 
+
+skill       - HTML 100%
+            - CSS 50 %
+            - Javascript 30 %
+            - Python 75 %
+
+Project     - Online E-Book Site (My IDEA / Training)
+            - Django Show Panel (Training)
+            - Weather-app (My IDEA / Training)
+            - My Portfolio(sample / Training)
+            - Django-for-professional(Ebook Training)
+            - OmniFood Service (Training)
+            
+email       - www.iceface@gmail.com
+phone       - 09255458532
+
+Education   - Graduated from Basic Education (2014-2015)
+            - BEcon(Economic) (2019)
+            - Network Engineering(KMD) (2017)
+            - Advance Excel and MS Office
+
+Work Experience
+            - (2016-2018) (Aye Cafeteria)
+                - Japanese Kitchen Helper
+            - (2018-2019) (KMD)
+                - Computer Sale Service
+            - (2020-2023) (Myo Naing-Nine Group of comp)
+                - Data Entry office staff
+
+Testimonials -
+Blog content -
+
+Who  I Am
+- My Name is Win Lin Tun. I'm junior web backend developer
+
+Name: Mr. Win Lin Tun
+Age : 24
+From: Myitkyina, Myanmar
+
+What I Do
+- Web Backend Developer
+
+- API Architecture
+APIs can be properly written to work well in the Backend and Frontend.
+
+
+- My Skill
+HTML
+CSS
+JavaScript
+React
+
+Python
+Django
+
+MySQL
+Postgresql
