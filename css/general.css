@@ -48,6 +48,19 @@ body {
     line-height: 1.2;
     margin-bottom: 9.6rem;
 }
+.heading-secondary-samll-section {
+    font-size: 4.4rem;
+    line-height: 1.2;
+    margin-bottom: 3.2rem;
+}
+.heading-center {
+    text-align: center !important;
+}
+.heading-underline {
+    display: inline-block;
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 8px;
+}
 .sub-heading {
     color: var(--text);
     font-size: 2rem;
@@ -92,4 +105,13 @@ body {
     display: grid;
     row-gap: 9.6rem;
     column-gap: 6.4rem;
+}
+.grid--2--col {
+    grid-template-columns: repeat(2, 1fr);
+}
+.grid--5--col {
+    grid-template-columns: repeat(5, 1fr);
+}
+.grid--4--col {
+    grid-template-columns: repeat(4, 1fr);
 }

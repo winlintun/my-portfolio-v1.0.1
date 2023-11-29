@@ -103,10 +103,16 @@ APIs can be properly written to work well in the Backend and Frontend.
 HTML
 CSS
 JavaScript
-React
-
 Python
 Django
-
+React
+Vue
+Golang
+C 
+C++
+PHP
+Bootstrap
+Tailwind CSS
 MySQL
 Postgresql
+
