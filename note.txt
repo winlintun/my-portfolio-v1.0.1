@@ -50,7 +50,7 @@ Font - family - Inter
 
 Sub Title   - My Name Is Win Lin Tun
 Main Title  - I am Python Developer
-            - I am Web Backend Developer
+            - I am Junior Web Backend Developer
             
 Description -  I want to create the best Web Backend and good workflow and error-free. I am a good developer with a good sense of humor and creativity. 
 
