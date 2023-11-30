@@ -53,6 +53,9 @@ default: 9px
 }
 .logo {
     font-size: 3rem;
+    font-family: "Clicker Script";
+    letter-spacing: 3px;
+    color: var(--primary);
 }
 .nav {
     display: flex;
