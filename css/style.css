@@ -181,3 +181,52 @@ default: 9px
     padding-left: 6.2rem;
     padding-top: 0.4rem;
 }
+
+/* **************************** */
+/* Work Section */
+/* **************************** */
+.section-work {
+    background-color: var(--bg-primary);
+    padding: 9.6rem 0 6.4rem 0;
+}
+.grid-project {
+    display: grid;
+    row-gap: 3.2rem;
+    column-gap: 6.4rem;
+}
+.work-nav-ul {
+    list-style: none;
+    display: flex;
+    column-gap: 2.4rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3.2rem;
+}
+.work-nav-li {
+    font-size: 1.8rem;
+    
+}
+.work-nav-link:link,
+.work-nav-link:visited {
+    display: inline-block;
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 0.8rem;
+}
+.work-nav-link:hover,
+.work-nav-link:active {
+    
+}
+.active {
+    border-bottom: 1px solid var(--primary) !important;
+    padding-bottom: 0.8rem;
+}
+.project-img {
+    width: 100%;
+    margin-bottom: 1.6rem;
+}
+.project-capt {
+    text-align: center;
+    font-size: 1.6rem;
+}
