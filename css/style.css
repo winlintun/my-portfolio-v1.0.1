@@ -346,3 +346,38 @@ default: 9px
     color: var(--primary);
     font-size: 1.8rem;
 }
+
+/* **************************** */
+/* Blog Section */
+/* **************************** */
+.section-blog {
+    background-color: var(--bg-primary);
+    padding-top: 6.4rem;
+    padding-bottom: 9.6rem;
+}
+.blog-group {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2.4rem;
+    background-color: var(--bg-secondary);
+}
+.blog-contents {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2.4rem;
+    padding: 1.6rem 3.2rem;
+}
+.blog-image {
+    border-bottom: 5px solid var(--primary);
+}
+.blog-img {
+    width: 100%;
+}
+.blog-title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    
+}
+.blog-desc {
+    font-size: 1.8rem;
+}
