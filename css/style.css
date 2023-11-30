@@ -265,3 +265,36 @@ default: 9px
     line-height: 1.6;
 
 }
+
+/* **************************** */
+/* Work Exp Section */
+/* **************************** */
+.section-exp {
+    background-color: var(--bg-primary);
+    padding: 9.6rem 0 6.4rem; 
+}
+.exp-group {
+    display: flex;
+    column-gap: 2.4rem;
+    border: 1px solid var(--primary);
+    padding: 1.6rem 3.2rem;
+    border-radius: 9px;
+}
+.exp-icon {
+    font-size: 3rem;
+    color: var(--primary);
+}
+.exp-year {
+    font-size: 1.8rem;
+    margin-bottom: 1.2rem;
+}
+.my-exp-title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-bottom: 1.6rem;
+}
+.exp-desc {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    color: var(--text-shade);
+}
