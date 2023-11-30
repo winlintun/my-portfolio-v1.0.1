@@ -28,16 +28,16 @@ shadow - မသုံးသလောက် နည်းမယ်
 animation - မရိုးအောင် နည်းနည်းထည့် မယ် 
 
 
-1. Header section
-2. Hero section
-3. About Us
-4. What i do or my skill
-5. Project or portfolio
-Education
-6. tesimonial
-7. blog
-8. content us
-
+Header -
+    - Hero          - false
+    - About         - true
+    - what i do     - false
+    - work          - true
+    - edu           - false
+    - exp           - true
+    - testimonials  - false
+    - blog          - true
+    - contact       - true
 
 ------------------------------
 Background color - #070500
